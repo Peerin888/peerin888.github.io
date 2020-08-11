@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-11T09:35:41.731Z</updated>
+  <updated>2020-08-11T10:59:28.826Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/05/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2020/05/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-05-28T03:25:39.000Z</published>
-    <updated>2020-08-11T09:35:41.731Z</updated>
+    <updated>2020-08-11T10:59:28.826Z</updated>
     
-    <content type="html"><![CDATA[<p>2020-5-28</p><p>这是我自己搭建的第一个个人博客，框架是<a href="https://hexo.io" target="_blank" rel="noopener">hexo</a>，主题是<del><a href="https://github.com/frostfan/hexo-theme-polarbear" target="_blank" rel="noopener">polarbear</a></del>—&gt;fluid(20-8-11更换)</p><p><del>如你所见，这是一款非常简洁的hexo主题，远离了五彩斑斓的动画效果、色彩缤纷的层叠样式，剩下的只有博客最基础的骨干、功能。</del></p><p>感觉目前的主题清爽些 XDDD</p><p>你可以在下面进行匿名评论，评论功能来自<a href="https://valine.js.org/" target="_blank" rel="noopener">valine</a></p>]]></content>
+    <content type="html"><![CDATA[<p>2020-5-28</p><p>这是我自己搭建的第一个个人博客，框架是<a href="https://hexo.io" target="_blank" rel="noopener">hexo</a>，主题是<del><a href="https://github.com/frostfan/hexo-theme-polarbear" target="_blank" rel="noopener">polarbear</a></del>—&gt;<a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="noopener">fluid</a>(20-8-11更换)</p><p><del>如你所见，这是一款非常简洁的hexo主题，远离了五彩斑斓的动画效果、色彩缤纷的层叠样式，剩下的只有博客最基础的骨干、功能。</del></p><p>感觉目前的主题清爽些 XDDD</p><p>你可以在下面进行匿名评论，评论功能来自<a href="https://valine.js.org/" target="_blank" rel="noopener">valine</a></p>]]></content>
     
     <summary type="html">
     
